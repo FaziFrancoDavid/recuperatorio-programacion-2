@@ -1,0 +1,15 @@
+C:\Users\franc\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\obj\Debug\TrabajoRecuperatorio-FAZI.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\obj\Debug\TrabajoRecuperatorio-FAZI.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\obj\Debug\TrabajoRecuperatorio-FAZI.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\bin\Debug\TrabajoRecuperatorio-FAZI.exe.config
+C:\Users\franc\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\bin\Debug\TrabajoRecuperatorio-FAZI.exe
+C:\Users\franc\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\bin\Debug\TrabajoRecuperatorio-FAZI.pdb
+C:\Users\franc\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\obj\Debug\TrabajoRecuperatorio-FAZI.exe
+C:\Users\franc\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\obj\Debug\TrabajoRecuperatorio-FAZI.pdb
+C:\Users\pablo\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\bin\Debug\TrabajoRecuperatorio-FAZI.exe.config
+C:\Users\pablo\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\bin\Debug\TrabajoRecuperatorio-FAZI.exe
+C:\Users\pablo\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\bin\Debug\TrabajoRecuperatorio-FAZI.pdb
+C:\Users\pablo\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\obj\Debug\TrabajoRecuperatorio-FAZI.csproj.AssemblyReference.cache
+C:\Users\pablo\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\obj\Debug\TrabajoRecuperatorio-FAZI.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\obj\Debug\TrabajoRecuperatorio-FAZI.exe
+C:\Users\pablo\Desktop\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\TrabajoRecuperatorio-FAZI\obj\Debug\TrabajoRecuperatorio-FAZI.pdb
